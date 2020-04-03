@@ -5,4 +5,4 @@ Uses a stabilized bi-conjugate gradient method for solving the system. This is a
 More information about this method can be found in the paper "Bi-CGSTAB: A Fast and Smoothly Converging Variant of Bi-CG for the Solution of Nonsymmetric Linear Systems" by H. A. van der Vorst, which can be found at https://epubs.siam.org/doi/10.1137/0913035. Publicly available information about the method can also be found at https://en.wikipedia.org/wiki/Biconjugate_gradient_stabilized_method#endnote_bicgstab2
 
 # Usage
-Code is written in C#, and was compiled and run using Visual Studio.
+Code is written in C#, and was compiled and run using Visual Studio. THe latest version has also been published using video studio, and the folder containing the .exe and other required files is contained in the SparseMatrixSolver .zip file in this repository. .Net core and other dependencies may need to be installed before running the .exe contained in the .zip file.
